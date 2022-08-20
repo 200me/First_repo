@@ -27,3 +27,6 @@ Description of Example Runs
 3.Run a program.
 
 <img src="image/test3.jpg" width="600px" height="500px" title="test3"></image>
+
+4.Check if it comes out normally.
+
